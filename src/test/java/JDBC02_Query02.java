@@ -38,12 +38,7 @@ public class JDBC02_Query02 {
             System.out.println(data2.getInt("id") + " " +
                     data2.getString("isim"));
         }
-        git init
 
-        git commit -m "first commit"
-        git branch -M main
-        git remote add origin https://github.com/BerivanGN/JDBC.git
-        git push -u origin main
 
 
     }
